@@ -8,6 +8,6 @@ function theBeatlesPlay(musicians,instruments){
      for (let j=0; j<=i; j++){
           myArray.push(`${musicians[j]} plays ${instruments[j]}.`);
      }
-
-
+     returns myArray;
+    
 }
